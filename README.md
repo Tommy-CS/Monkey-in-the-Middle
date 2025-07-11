@@ -1,4 +1,4 @@
-# Monkey-in-the-Middle
+# Monkey in the Middle
 I built this lab as part of CodePath’s CYB102 cybersecurity course to gain hands-on experience analyzing encrypted and unencrypted network traffic. The goal was to understand how HTTPS encryption protects data in transit, and how a proxy server like mitmproxy can **intercept and decrypt** that traffic when configured correctly. After completing this lab, I learned how to analyze traffic with Wireshark, set up and configure mitmproxy, and intercept and modify HTTP requests in real-time.
 
 ## Tools & Technologies Used
