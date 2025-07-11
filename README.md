@@ -27,3 +27,6 @@ I built this lab as part of CodePath’s CYB102 cybersecurity course to gain han
 
 ### After mitmproxy modification (weather for Innsbruck)
 <img src="https://github.com/user-attachments/assets/76bbc38f-747b-4410-8894-ad1c1335988b" width="600"/>
+
+### How mitmproxy works as a man-in-the-middle proxy
+<img src="https://github.com/user-attachments/assets/9610a01c-3484-4952-9a22-577a8332a6f2" width="600"/>
